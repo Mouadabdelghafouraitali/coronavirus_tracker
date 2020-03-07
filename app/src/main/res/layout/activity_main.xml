@@ -22,7 +22,7 @@
                 android:layout_centerHorizontal="true"
                 android:layout_centerVertical="true"
                 android:gravity="center"
-                android:text="DashBoard"
+                android:text="Dashboard"
                 android:textColor="#000"
                 android:textSize="24sp"
                 android:textStyle="bold" />
