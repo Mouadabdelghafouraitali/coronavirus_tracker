@@ -8,7 +8,7 @@ A simple tracker app to get the live statistics of the **Novel Coronavirus**
 
 Shows you the following :
 * The global (confirmed, deaths & recovered cases)
-* Total confirmed cases on each country
+* Total confirmed cases for each country
 
 <img src="https://i.imgur.com/8X4EeZS.jpg" width="250">
 
