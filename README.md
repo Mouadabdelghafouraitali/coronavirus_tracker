@@ -24,5 +24,3 @@ Shows you the following :
 # API used 
 
 https://corona.lmao.ninja/ 
-==
-Feel free to use this project as you want
