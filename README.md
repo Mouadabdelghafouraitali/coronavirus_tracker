@@ -24,3 +24,10 @@ Shows you the following :
 # API used 
 
 https://corona.lmao.ninja/ 
+
+#  Tech Spesification
+- AndroidX
+- Java
+- Retrofit for network request
+- MVVM
+- Data binding
