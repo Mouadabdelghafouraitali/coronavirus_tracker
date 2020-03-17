@@ -25,7 +25,7 @@ Shows you the following :
 
 https://corona.lmao.ninja/ 
 
-#  Tech Spesification
+#  Tech Specification
 - AndroidX
 - Java
 - Retrofit for network request
